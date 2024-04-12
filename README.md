@@ -1,6 +1,5 @@
 ## Hi there 👋
 大家好！ 我是Roger 一個正在轉職的畢業生 喜歡專研程式問題 閒暇專研一些有趣的知識。 
-<img src="https://github.com/Roger3985/Roger3985/raw/main/assets/156963786/637a4d1a-ed95-4fe3-adcb-00f565a09cbb" alt="image" width="300">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Roger3985&show_icons=true&theme=radical" alt="my github stats"/>
 
