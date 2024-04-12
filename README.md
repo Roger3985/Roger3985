@@ -8,9 +8,9 @@
 
 ## 專案和興趣愛好
 
-- 🚀 webapp
-- 💻 springboot mall
-- 📚 剛剛踏入工程師的小小白
+- 🚀 專案一：webapp
+- 💻 專案二：springboot mall
+- 📚 學習成果：剛剛踏入工程師的小小白
 - ⚽ 興趣：運動、音樂
 
 ## 聯絡我
