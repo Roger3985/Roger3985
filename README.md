@@ -269,7 +269,7 @@ Mac                      4 hrs 16 mins       █████░░░░░░�
 
 - [個人網站](https://example.com)
 - [Twitter](https://twitter.com/example)
-- [LinkedIn](https://www.linkedin.com/in/example)
+- [LinkedIn]([https://www.linkedin.com/in/example](https://www.linkedin.com/feed/))
 
 
 <!---
