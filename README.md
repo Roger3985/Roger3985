@@ -191,14 +191,6 @@
   <h2 align="left">GitHub Stats</h2>
 
 <p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=Roger3985&show_icons=true&locale=en&theme=ayu-mirage"
-    alt="xxrjun"
-  />
-</p>
-
-<p>
   &nbsp;<img 
   align="center" 
   src="https://github-readme-streak-stats.herokuapp.com/?user=Roger3985&theme=ayu-mirage" 
